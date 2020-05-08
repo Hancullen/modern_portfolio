@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Responsive Portfolfio",
   "main": "index.js",
-  "homepage": "https://hancullen.github.io/modern_portfolio/",
+  "homepage": "https://hancullen.github.io/modern_portfolio",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "node-sass": "^4.14.0"
