@@ -10,6 +10,10 @@
   .projects {
     grid-template-columns: repeat(3, 1fr);
   }
+  .text-slider {
+    align-items: center;
+    text-align: center;
+  }
 }
 
 // Tablet and Small Laptop

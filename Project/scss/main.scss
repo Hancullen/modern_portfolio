@@ -210,9 +210,10 @@ main {
 .text-slider {
   justify-content: center;
   align-items: center;
+  text-align: center;
   height: 100%;
   //display: flex;
-  background-color: $primary-color;
+  //background-color: $primary-color;
 }
 
 @keyframes cursor {
@@ -268,7 +269,7 @@ main {
   top: 0;
   right: 0;
   bottom: 0;
-  border: 2px $primary-color;
+  border-left: 3px $primary-color;
   background-color: rgba(lighten($primary-color, 2), 0.5);
   animation: typing $typing-duration infinite, cursor 1s infinite;
 }

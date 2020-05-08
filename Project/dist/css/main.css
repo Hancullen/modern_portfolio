@@ -250,8 +250,7 @@ main {
 .text-slider {
   justify-content: center;
   align-items: center;
-  height: 100%;
-  background-color: #fff; }
+  height: 100%; }
 
 @keyframes cursor {
   from,
@@ -295,7 +294,7 @@ main {
   top: 0;
   right: 0;
   bottom: 0;
-  border: 2px #fff;
+  border-left: 3px #fff;
   background-color: rgba(255, 255, 255, 0.5);
   animation: typing 5s infinite, cursor 1s infinite; }
 
